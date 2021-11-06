@@ -1,0 +1,14 @@
+.column {
+  border: 1px solid rgb(255, 0, 157);
+  /* display: inline-block; */
+}
+.table {
+  border: 1px solid rgb(23, 189, 255);
+}
+.wrapper {
+  border: 1px solid rgb(99, 236, 87);
+}
+.container {
+  border: 1px solid rgb(247, 51, 214);
+  /* height: 100%; */
+}
